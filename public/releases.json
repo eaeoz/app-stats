@@ -1,0 +1,332 @@
+{
+  "projects": [
+    {
+      "repo": "youtube-downloader",
+      "releases": [
+        {
+          "tag": "1.0.0",
+          "name": "v1.0.0 — Initial Release",
+          "published": "2026-05-18T22:46:05Z",
+          "assets": [
+            {
+              "name": "YouTube.Downloader.Setup.1.0.0.exe",
+              "downloads": 5
+            },
+            {
+              "name": "YouTube.Downloader_portable_1.0.0.exe",
+              "downloads": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "movie-downloader",
+      "releases": [
+        {
+          "tag": "1.0.6",
+          "name": "v1.0.6 Major Update - tor-dl Global dependencies not required anymore (2026-05-14)",
+          "published": "2026-05-14T15:52:55Z",
+          "assets": [
+            {
+              "name": "Movie.Downloader.Setup.1.0.6.exe",
+              "downloads": 7
+            },
+            {
+              "name": "Movie.Downloader_portable_1.0.6.exe",
+              "downloads": 2
+            }
+          ]
+        },
+        {
+          "tag": "1.0.5",
+          "name": "v1.0.5 — Movie Info Panel & Smarter Metadata",
+          "published": "2026-05-13T12:09:12Z",
+          "assets": [
+            {
+              "name": "Movie.Downloader.Setup.1.0.5.exe",
+              "downloads": 6
+            },
+            {
+              "name": "Movie.Downloader_portable_1.0.5.exe",
+              "downloads": 3
+            }
+          ]
+        },
+        {
+          "tag": "1.0.4",
+          "name": "v1.0.4 — Smarter default filters for better results",
+          "published": "2026-05-12T14:40:00Z",
+          "assets": [
+            {
+              "name": "Movie.Downloader.Setup.1.0.4.exe",
+              "downloads": 1
+            },
+            {
+              "name": "Movie.Downloader_portable_1.0.4.exe",
+              "downloads": 1
+            }
+          ]
+        },
+        {
+          "tag": "1.0.3",
+          "name": "v1.0.3 — Download persistence, incomplete folder system, Windows reliability fixes",
+          "published": "2026-05-12T13:40:58Z",
+          "assets": [
+            {
+              "name": "Movie.Downloader.Setup.1.0.3.exe",
+              "downloads": 3
+            },
+            {
+              "name": "Movie.Downloader_portable_1.0.3.exe",
+              "downloads": 0
+            }
+          ]
+        },
+        {
+          "tag": "1.0.2",
+          "name": "v1.0.2 Reduced high CPU usage",
+          "published": "2026-05-12T09:41:24Z",
+          "assets": [
+            {
+              "name": "Movie.Downloader.Setup.1.0.2.exe",
+              "downloads": 2
+            },
+            {
+              "name": "Movie.Downloader_portable_1.0.2.exe",
+              "downloads": 1
+            }
+          ]
+        },
+        {
+          "tag": "1.0.1",
+          "name": "v1.0.1 Fixed trailing whitespace in download folder names which prevents to delete folder",
+          "published": "2026-05-12T08:59:09Z",
+          "assets": [
+            {
+              "name": "Movie.Downloader.Setup.1.0.1.exe",
+              "downloads": 1
+            },
+            {
+              "name": "Movie.Downloader_portable_1.0.1.exe",
+              "downloads": 1
+            }
+          ]
+        },
+        {
+          "tag": "1.0.0",
+          "name": "v1.0.0 — Movie Downloader",
+          "published": "2026-05-11T20:46:18Z",
+          "assets": [
+            {
+              "name": "Movie.Downloader.Setup.1.0.0.exe",
+              "downloads": 1
+            },
+            {
+              "name": "Movie.Downloader_portable_1.0.0.exe",
+              "downloads": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "music-downloader",
+      "releases": [
+        {
+          "tag": "1.0.0",
+          "name": "Music Downloader v1.0.0 — First Stable Release",
+          "published": "2026-05-14T00:39:44Z",
+          "assets": [
+            {
+              "name": "Music.Downloader.Setup.1.0.0.exe",
+              "downloads": 8
+            },
+            {
+              "name": "Music.Downloader_portable_1.0.0.exe",
+              "downloads": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "command-manager-docker",
+      "releases": [
+        {
+          "tag": "1.0.6",
+          "name": "Version 1.0.6 - Scroll Bar Fix",
+          "published": "2026-05-08T18:07:27Z",
+          "assets": [
+            {
+              "name": "Command.Manager.Setup.1.0.6.exe",
+              "downloads": 5
+            },
+            {
+              "name": "Command.Manager_portable_1.0.6.exe",
+              "downloads": 1
+            }
+          ]
+        },
+        {
+          "tag": "1.0.5",
+          "name": "Version 1.0.5 - Seamless AI Integration, Focus Stability & Modern UI",
+          "published": "2026-05-06T01:37:02Z",
+          "assets": [
+            {
+              "name": "Command.Manager.Setup.1.0.5.exe",
+              "downloads": 2
+            },
+            {
+              "name": "Command.Manager_portable_1.0.5.exe",
+              "downloads": 4
+            }
+          ]
+        },
+        {
+          "tag": "1.0.4",
+          "name": "Fix Electron cursor delay and animation performance issues",
+          "published": "2026-05-05T20:09:23Z",
+          "assets": [
+            {
+              "name": "Command.Manager.Setup.1.0.4.exe",
+              "downloads": 4
+            },
+            {
+              "name": "Command.Manager_portable_1.0.4.exe",
+              "downloads": 0
+            }
+          ]
+        },
+        {
+          "tag": "1.0.3",
+          "name": "v1.0.3 - AI Integration & UI Enhancements",
+          "published": "2026-05-05T15:42:57Z",
+          "assets": [
+            {
+              "name": "Command.Manager.Setup.1.0.3.exe",
+              "downloads": 0
+            },
+            {
+              "name": "Command.Manager_portable_1.0.3.exe",
+              "downloads": 2
+            }
+          ]
+        },
+        {
+          "tag": "1.0.2",
+          "name": "Update contact link to web form (v1.0.2)",
+          "published": "2026-05-04T20:30:33Z",
+          "assets": [
+            {
+              "name": "Command.Manager.Setup.1.0.2.exe",
+              "downloads": 1
+            },
+            {
+              "name": "Command.Manager_portable_1.0.2.exe",
+              "downloads": 0
+            }
+          ]
+        },
+        {
+          "tag": "1.0.1",
+          "name": "v1.0.1 - External Link Handling Fix",
+          "published": "2026-05-04T20:10:39Z",
+          "assets": [
+            {
+              "name": "Command.Manager.Setup.1.0.1.exe",
+              "downloads": 0
+            },
+            {
+              "name": "Command.Manager_portable_1.0.1.exe",
+              "downloads": 0
+            }
+          ]
+        },
+        {
+          "tag": "1.0.0",
+          "name": "Command Manager v1.0.0 - Initial Release",
+          "published": "2026-05-04T13:56:20Z",
+          "assets": [
+            {
+              "name": "Command.Manager.Setup.1.0.0.exe",
+              "downloads": 1
+            },
+            {
+              "name": "Command.Manager_portable_1.0.0.exe",
+              "downloads": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "sondakika",
+      "releases": [
+        {
+          "tag": "2.0.4",
+          "name": "📦 v2.0.4 - Döngü Modu ve Sesli Okuma İyileştirmeleri",
+          "published": "2026-05-14T11:09:56Z",
+          "assets": [
+            {
+              "name": "Sondakika.Setup.2.0.4.exe",
+              "downloads": 9
+            },
+            {
+              "name": "Sondakika_portable_2.0.4.exe",
+              "downloads": 3
+            }
+          ]
+        },
+        {
+          "tag": "2.0.3",
+          "name": "Sondakika v2.0.3 — Portable Build & GUI Improvements",
+          "published": "2026-05-02T11:11:19Z",
+          "assets": [
+            {
+              "name": "Sondakika.Setup.2.0.3.exe",
+              "downloads": 4
+            },
+            {
+              "name": "Sondakika_portable_2.0.3.exe",
+              "downloads": 6
+            }
+          ]
+        },
+        {
+          "tag": "2.0.2",
+          "name": "Sondakika v2.0.2 - Enhanced Article Reading Experience with White Theme & Animated Auto-Play",
+          "published": "2026-04-30T09:55:25Z",
+          "assets": [
+            {
+              "name": "Sondakika.Setup.2.0.2.exe",
+              "downloads": 3
+            }
+          ]
+        },
+        {
+          "tag": "2.0.1",
+          "name": "Sondakika v2.0.1 - Browser Button Fix & CLI Improvements",
+          "published": "2026-04-29T00:55:37Z",
+          "assets": [
+            {
+              "name": "Sondakika.Setup.2.0.1.exe",
+              "downloads": 4
+            }
+          ]
+        },
+        {
+          "tag": "2.0.0",
+          "name": "Sondakika v2.0.0 - Windows Masaüstü GUI + CLI Sürümü",
+          "published": "2026-04-28T12:13:30Z",
+          "assets": [
+            {
+              "name": "Sondakika.Setup.2.0.0.exe",
+              "downloads": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
