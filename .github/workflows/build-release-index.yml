@@ -36,17 +36,30 @@ jobs:
           for repo in "${REPOS[@]}"; do
             echo "Processing $repo"
 
-            DATA=$(curl -s https://api.github.com/repos/eaeoz/$repo/releases)
+            RELEASES=$(curl -s https://api.github.com/repos/eaeoz/$repo/releases)
+            REPOINFO=$(curl -s https://api.github.com/repos/eaeoz/$repo)
 
-            PROJECT=$(echo "$DATA" | jq -c --arg repo "$repo" '{
+            STARS=$(echo "$REPOINFO" | jq '.stargazers_count // 0')
+            OWNER_LOGIN=$(echo "$REPOINFO" | jq -r '.owner.login // "eaeoz"')
+            OWNER_AVATAR=$(echo "$REPOINFO" | jq -r '.owner.avatar_url // ""')
+
+            PROJECT=$(echo "$RELEASES" | jq -c --arg repo "$repo" --argjson stars "$STARS" --arg owner "$OWNER_LOGIN" --arg avatar "$OWNER_AVATAR" '{
               repo: $repo,
+              stars: $stars,
+              owner: {
+                login: $owner,
+                avatar_url: $avatar
+              },
               releases: [.[] | {
                 tag: .tag_name,
                 name: .name,
                 published: .published_at,
                 assets: [.assets[] | {
                   name: .name,
-                  downloads: .download_count
+                  size: .size,
+                  downloads: .download_count,
+                  browser_download_url: .browser_download_url,
+                  created_at: .created_at
                 }]
               }]
             }')
