@@ -2,6 +2,11 @@
   "projects": [
     {
       "repo": "youtube-downloader",
+      "stars": 0,
+      "owner": {
+        "login": "eaeoz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/96027693?v=4"
+      },
       "releases": [
         {
           "tag": "1.0.0",
@@ -10,11 +15,17 @@
           "assets": [
             {
               "name": "YouTube.Downloader.Setup.1.0.0.exe",
-              "downloads": 5
+              "size": 220908386,
+              "downloads": 5,
+              "browser_download_url": "https://github.com/eaeoz/youtube-downloader/releases/download/1.0.0/YouTube.Downloader.Setup.1.0.0.exe",
+              "created_at": "2026-05-19T14:30:16Z"
             },
             {
               "name": "YouTube.Downloader_portable_1.0.0.exe",
-              "downloads": 0
+              "size": 220753103,
+              "downloads": 0,
+              "browser_download_url": "https://github.com/eaeoz/youtube-downloader/releases/download/1.0.0/YouTube.Downloader_portable_1.0.0.exe",
+              "created_at": "2026-05-19T14:26:33Z"
             }
           ]
         }
@@ -22,6 +33,11 @@
     },
     {
       "repo": "movie-downloader",
+      "stars": 0,
+      "owner": {
+        "login": "eaeoz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/96027693?v=4"
+      },
       "releases": [
         {
           "tag": "1.0.6",
@@ -30,11 +46,17 @@
           "assets": [
             {
               "name": "Movie.Downloader.Setup.1.0.6.exe",
-              "downloads": 7
+              "size": 80373849,
+              "downloads": 7,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.6/Movie.Downloader.Setup.1.0.6.exe",
+              "created_at": "2026-05-14T23:21:30Z"
             },
             {
               "name": "Movie.Downloader_portable_1.0.6.exe",
-              "downloads": 2
+              "size": 80227428,
+              "downloads": 2,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.6/Movie.Downloader_portable_1.0.6.exe",
+              "created_at": "2026-05-14T23:20:15Z"
             }
           ]
         },
@@ -45,11 +67,17 @@
           "assets": [
             {
               "name": "Movie.Downloader.Setup.1.0.5.exe",
-              "downloads": 6
+              "size": 81023847,
+              "downloads": 6,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.5/Movie.Downloader.Setup.1.0.5.exe",
+              "created_at": "2026-05-13T12:06:24Z"
             },
             {
               "name": "Movie.Downloader_portable_1.0.5.exe",
-              "downloads": 3
+              "size": 80877378,
+              "downloads": 3,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.5/Movie.Downloader_portable_1.0.5.exe",
+              "created_at": "2026-05-13T12:05:05Z"
             }
           ]
         },
@@ -60,11 +88,17 @@
           "assets": [
             {
               "name": "Movie.Downloader.Setup.1.0.4.exe",
-              "downloads": 1
+              "size": 80719955,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.4/Movie.Downloader.Setup.1.0.4.exe",
+              "created_at": "2026-05-12T14:38:41Z"
             },
             {
               "name": "Movie.Downloader_portable_1.0.4.exe",
-              "downloads": 1
+              "size": 80573501,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.4/Movie.Downloader_portable_1.0.4.exe",
+              "created_at": "2026-05-12T14:37:09Z"
             }
           ]
         },
@@ -75,11 +109,17 @@
           "assets": [
             {
               "name": "Movie.Downloader.Setup.1.0.3.exe",
-              "downloads": 3
+              "size": 80719733,
+              "downloads": 3,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.3/Movie.Downloader.Setup.1.0.3.exe",
+              "created_at": "2026-05-12T13:39:22Z"
             },
             {
               "name": "Movie.Downloader_portable_1.0.3.exe",
-              "downloads": 0
+              "size": 80573282,
+              "downloads": 0,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.3/Movie.Downloader_portable_1.0.3.exe",
+              "created_at": "2026-05-12T13:37:50Z"
             }
           ]
         },
@@ -90,11 +130,17 @@
           "assets": [
             {
               "name": "Movie.Downloader.Setup.1.0.2.exe",
-              "downloads": 2
+              "size": 80717350,
+              "downloads": 2,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.2/Movie.Downloader.Setup.1.0.2.exe",
+              "created_at": "2026-05-12T09:39:56Z"
             },
             {
               "name": "Movie.Downloader_portable_1.0.2.exe",
-              "downloads": 1
+              "size": 80570879,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.2/Movie.Downloader_portable_1.0.2.exe",
+              "created_at": "2026-05-12T09:38:28Z"
             }
           ]
         },
@@ -105,11 +151,17 @@
           "assets": [
             {
               "name": "Movie.Downloader.Setup.1.0.1.exe",
-              "downloads": 1
+              "size": 80716845,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.1/Movie.Downloader.Setup.1.0.1.exe",
+              "created_at": "2026-05-12T08:57:42Z"
             },
             {
               "name": "Movie.Downloader_portable_1.0.1.exe",
-              "downloads": 1
+              "size": 80570383,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.1/Movie.Downloader_portable_1.0.1.exe",
+              "created_at": "2026-05-12T08:56:16Z"
             }
           ]
         },
@@ -120,11 +172,17 @@
           "assets": [
             {
               "name": "Movie.Downloader.Setup.1.0.0.exe",
-              "downloads": 1
+              "size": 80715743,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.0/Movie.Downloader.Setup.1.0.0.exe",
+              "created_at": "2026-05-11T20:42:39Z"
             },
             {
               "name": "Movie.Downloader_portable_1.0.0.exe",
-              "downloads": 2
+              "size": 80571794,
+              "downloads": 2,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.0/Movie.Downloader_portable_1.0.0.exe",
+              "created_at": "2026-05-11T21:35:00Z"
             }
           ]
         }
@@ -132,6 +190,11 @@
     },
     {
       "repo": "music-downloader",
+      "stars": 0,
+      "owner": {
+        "login": "eaeoz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/96027693?v=4"
+      },
       "releases": [
         {
           "tag": "1.0.0",
@@ -140,11 +203,17 @@
           "assets": [
             {
               "name": "Music.Downloader.Setup.1.0.0.exe",
-              "downloads": 8
+              "size": 167240479,
+              "downloads": 8,
+              "browser_download_url": "https://github.com/eaeoz/music-downloader/releases/download/1.0.0/Music.Downloader.Setup.1.0.0.exe",
+              "created_at": "2026-05-14T00:47:40Z"
             },
             {
               "name": "Music.Downloader_portable_1.0.0.exe",
-              "downloads": 2
+              "size": 167072693,
+              "downloads": 2,
+              "browser_download_url": "https://github.com/eaeoz/music-downloader/releases/download/1.0.0/Music.Downloader_portable_1.0.0.exe",
+              "created_at": "2026-05-14T00:50:26Z"
             }
           ]
         }
@@ -152,6 +221,11 @@
     },
     {
       "repo": "command-manager-docker",
+      "stars": 0,
+      "owner": {
+        "login": "eaeoz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/96027693?v=4"
+      },
       "releases": [
         {
           "tag": "1.0.6",
@@ -160,11 +234,17 @@
           "assets": [
             {
               "name": "Command.Manager.Setup.1.0.6.exe",
-              "downloads": 5
+              "size": 78267112,
+              "downloads": 5,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.6/Command.Manager.Setup.1.0.6.exe",
+              "created_at": "2026-05-08T22:59:25Z"
             },
             {
               "name": "Command.Manager_portable_1.0.6.exe",
-              "downloads": 1
+              "size": 78107435,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.6/Command.Manager_portable_1.0.6.exe",
+              "created_at": "2026-05-08T22:58:16Z"
             }
           ]
         },
@@ -175,11 +255,17 @@
           "assets": [
             {
               "name": "Command.Manager.Setup.1.0.5.exe",
-              "downloads": 2
+              "size": 78267014,
+              "downloads": 2,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.5/Command.Manager.Setup.1.0.5.exe",
+              "created_at": "2026-05-06T01:35:10Z"
             },
             {
               "name": "Command.Manager_portable_1.0.5.exe",
-              "downloads": 4
+              "size": 78107365,
+              "downloads": 4,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.5/Command.Manager_portable_1.0.5.exe",
+              "created_at": "2026-05-06T01:33:23Z"
             }
           ]
         },
@@ -190,11 +276,17 @@
           "assets": [
             {
               "name": "Command.Manager.Setup.1.0.4.exe",
-              "downloads": 4
+              "size": 78266336,
+              "downloads": 4,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.4/Command.Manager.Setup.1.0.4.exe",
+              "created_at": "2026-05-05T20:45:09Z"
             },
             {
               "name": "Command.Manager_portable_1.0.4.exe",
-              "downloads": 0
+              "size": 78106689,
+              "downloads": 0,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.4/Command.Manager_portable_1.0.4.exe",
+              "created_at": "2026-05-05T20:43:29Z"
             }
           ]
         },
@@ -205,11 +297,17 @@
           "assets": [
             {
               "name": "Command.Manager.Setup.1.0.3.exe",
-              "downloads": 0
+              "size": 78266408,
+              "downloads": 0,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.3/Command.Manager.Setup.1.0.3.exe",
+              "created_at": "2026-05-05T19:52:59Z"
             },
             {
               "name": "Command.Manager_portable_1.0.3.exe",
-              "downloads": 2
+              "size": 78106547,
+              "downloads": 2,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.3/Command.Manager_portable_1.0.3.exe",
+              "created_at": "2026-05-05T15:40:25Z"
             }
           ]
         },
@@ -220,11 +318,17 @@
           "assets": [
             {
               "name": "Command.Manager.Setup.1.0.2.exe",
-              "downloads": 1
+              "size": 78261355,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.2/Command.Manager.Setup.1.0.2.exe",
+              "created_at": "2026-05-04T20:26:50Z"
             },
             {
               "name": "Command.Manager_portable_1.0.2.exe",
-              "downloads": 0
+              "size": 78101706,
+              "downloads": 0,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.2/Command.Manager_portable_1.0.2.exe",
+              "created_at": "2026-05-04T20:28:42Z"
             }
           ]
         },
@@ -235,11 +339,17 @@
           "assets": [
             {
               "name": "Command.Manager.Setup.1.0.1.exe",
-              "downloads": 0
+              "size": 78261359,
+              "downloads": 0,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.1/Command.Manager.Setup.1.0.1.exe",
+              "created_at": "2026-05-04T20:06:51Z"
             },
             {
               "name": "Command.Manager_portable_1.0.1.exe",
-              "downloads": 0
+              "size": 78101711,
+              "downloads": 0,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.1/Command.Manager_portable_1.0.1.exe",
+              "created_at": "2026-05-04T20:08:57Z"
             }
           ]
         },
@@ -250,11 +360,17 @@
           "assets": [
             {
               "name": "Command.Manager.Setup.1.0.0.exe",
-              "downloads": 1
+              "size": 78261181,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.0/Command.Manager.Setup.1.0.0.exe",
+              "created_at": "2026-05-04T13:49:39Z"
             },
             {
               "name": "Command.Manager_portable_1.0.0.exe",
-              "downloads": 1
+              "size": 78101524,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.0/Command.Manager_portable_1.0.0.exe",
+              "created_at": "2026-05-04T13:52:53Z"
             }
           ]
         }
@@ -262,6 +378,11 @@
     },
     {
       "repo": "sondakika",
+      "stars": 0,
+      "owner": {
+        "login": "eaeoz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/96027693?v=4"
+      },
       "releases": [
         {
           "tag": "2.0.4",
@@ -270,11 +391,17 @@
           "assets": [
             {
               "name": "Sondakika.Setup.2.0.4.exe",
-              "downloads": 9
+              "size": 76921742,
+              "downloads": 9,
+              "browser_download_url": "https://github.com/eaeoz/sondakika/releases/download/2.0.4/Sondakika.Setup.2.0.4.exe",
+              "created_at": "2026-05-14T11:08:31Z"
             },
             {
               "name": "Sondakika_portable_2.0.4.exe",
-              "downloads": 3
+              "size": 76771325,
+              "downloads": 3,
+              "browser_download_url": "https://github.com/eaeoz/sondakika/releases/download/2.0.4/Sondakika_portable_2.0.4.exe",
+              "created_at": "2026-05-14T11:07:26Z"
             }
           ]
         },
@@ -285,11 +412,17 @@
           "assets": [
             {
               "name": "Sondakika.Setup.2.0.3.exe",
-              "downloads": 4
+              "size": 76921476,
+              "downloads": 4,
+              "browser_download_url": "https://github.com/eaeoz/sondakika/releases/download/2.0.3/Sondakika.Setup.2.0.3.exe",
+              "created_at": "2026-05-02T11:07:31Z"
             },
             {
               "name": "Sondakika_portable_2.0.3.exe",
-              "downloads": 6
+              "size": 76771046,
+              "downloads": 6,
+              "browser_download_url": "https://github.com/eaeoz/sondakika/releases/download/2.0.3/Sondakika_portable_2.0.3.exe",
+              "created_at": "2026-05-02T11:09:13Z"
             }
           ]
         },
@@ -300,7 +433,10 @@
           "assets": [
             {
               "name": "Sondakika.Setup.2.0.2.exe",
-              "downloads": 3
+              "size": 76920340,
+              "downloads": 3,
+              "browser_download_url": "https://github.com/eaeoz/sondakika/releases/download/2.0.2/Sondakika.Setup.2.0.2.exe",
+              "created_at": "2026-04-30T09:47:59Z"
             }
           ]
         },
@@ -311,7 +447,10 @@
           "assets": [
             {
               "name": "Sondakika.Setup.2.0.1.exe",
-              "downloads": 4
+              "size": 76918986,
+              "downloads": 4,
+              "browser_download_url": "https://github.com/eaeoz/sondakika/releases/download/2.0.1/Sondakika.Setup.2.0.1.exe",
+              "created_at": "2026-04-29T00:51:06Z"
             }
           ]
         },
@@ -322,7 +461,10 @@
           "assets": [
             {
               "name": "Sondakika.Setup.2.0.0.exe",
-              "downloads": 4
+              "size": 76918783,
+              "downloads": 4,
+              "browser_download_url": "https://github.com/eaeoz/sondakika/releases/download/2.0.0/Sondakika.Setup.2.0.0.exe",
+              "created_at": "2026-04-28T12:06:35Z"
             }
           ]
         }
