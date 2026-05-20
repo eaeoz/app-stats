@@ -12,6 +12,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
       - uses: actions/checkout@v4
 
@@ -60,4 +63,5 @@ jobs:
 
           git diff --cached --quiet || git commit -m "Update multi-repo releases"
 
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git push
