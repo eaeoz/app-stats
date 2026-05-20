@@ -1,41 +1,59 @@
 # app-stats
 
-Application statistics dashboard — JSON-based, powered by GitHub Actions.
+Multi-repo release index — JSON-based, powered by GitHub Actions.
 
 ## Overview
 
-This repository automatically collects metrics from various sources via scheduled GitHub Actions workflows. The raw data is stored as JSON files and can be served as a lightweight stats API or rendered into a dashboard.
+Fetches release data from multiple repositories via the GitHub API every 30 minutes and writes a combined index to `public/releases.json`.
 
-## How it works
+## Tracked repositories
 
-1. GitHub Actions workflows run on a schedule (or on demand) to fetch data from configured sources.
-2. The fetched data is processed and written to `data/*.json`.
-3. The JSON files can be consumed by a frontend dashboard, used in a GitHub Pages site, or consumed by external tools.
+- [youtube-downloader](https://github.com/eaeoz/youtube-downloader)
+- [movie-downloader](https://github.com/eaeoz/movie-downloader)
+- [music-downloader](https://github.com/eaeoz/music-downloader)
+- [command-manager-docker](https://github.com/eaeoz/command-manager-docker)
+- [sondakika](https://github.com/eaeoz/sondakika)
+
+## Output format
+
+The resulting `public/releases.json` structure:
+
+```json
+{
+  "projects": [
+    {
+      "repo": "youtube-downloader",
+      "releases": [
+        {
+          "tag": "v1.0.0",
+          "name": "Initial release",
+          "published": "2026-01-01T00:00:00Z",
+          "assets": [
+            { "name": "app.exe", "downloads": 42 }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```
 
 ## Usage
 
 ```bash
-git clone https://github.com/<user>/app-stats
+git clone https://github.com/eaeoz/app-stats
 cd app-stats
 ```
 
-### Local development
-
-If a frontend is included:
-
-```bash
-npm install
-npm run dev
-```
+The JSON can be consumed by a frontend dashboard, GitHub Pages site, or external tools — hosted at `/public/releases.json`.
 
 ## Project structure
 
 ```
 .
-├── .github/workflows/   # GitHub Actions workflow definitions
-├── data/                # Generated JSON stats files (committed by CI)
-├── src/                 # Frontend source (if applicable)
-└── ...
+├── .github/workflows/        # GitHub Actions workflow definitions
+├── public/                   # Generated release index (committed by CI)
+└── README.md
 ```
 
 ## License

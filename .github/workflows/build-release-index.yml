@@ -1,0 +1,63 @@
+name: Build Multi Repo Release Index
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch all repositories
+        run: |
+          REPOS=(
+            "youtube-downloader"
+            "movie-downloader"
+            "music-downloader"
+            "command-manager-docker"
+            "sondakika"
+          )
+
+          OUTPUT='{"projects":['
+
+          for repo in "${REPOS[@]}"; do
+            echo "Processing $repo"
+
+            DATA=$(curl -s https://api.github.com/repos/eaeoz/$repo/releases)
+
+            PROJECT=$(echo "$DATA" | jq -c --arg repo "$repo" '{
+              repo: $repo,
+              releases: [.[] | {
+                tag: .tag_name,
+                name: .name,
+                published: .published_at,
+                assets: [.assets[] | {
+                  name: .name,
+                  downloads: .download_count
+                }]
+              }]
+            }')
+
+            OUTPUT="$OUTPUT$PROJECT,"
+          done
+
+          OUTPUT="${OUTPUT%,}]}"
+          echo "$OUTPUT" | jq '.' > public/releases.json
+
+      - name: Commit result
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add public/releases.json
+
+          git diff --cached --quiet || git commit -m "Update multi-repo releases"
+
+          git push

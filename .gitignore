@@ -39,4 +39,4 @@ venv/
 !package.json
 !package-lock.json
 !tsconfig.json
-!data/*.json
+!public/*.json
