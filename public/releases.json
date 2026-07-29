@@ -490,6 +490,89 @@
           ]
         }
       ]
+    },
+    {
+      "repo": "SpeechTypeProject",
+      "stars": 0,
+      "owner": {
+        "login": "eaeoz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/96027693?v=4"
+      },
+      "releases": [
+        {
+          "tag": "1.0.0",
+          "name": "Speech Type v1.0.0",
+          "published": "2026-07-17T00:52:14Z",
+          "assets": [
+            {
+              "name": "Speech.Type.Setup.1.0.0.exe",
+              "size": 560848855,
+              "downloads": 4,
+              "browser_download_url": "https://github.com/eaeoz/SpeechTypeProject/releases/download/1.0.0/Speech.Type.Setup.1.0.0.exe",
+              "created_at": "2026-07-17T00:42:34Z"
+            },
+            {
+              "name": "Speech.Type_portable_1.0.0.exe",
+              "size": 560703200,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/SpeechTypeProject/releases/download/1.0.0/Speech.Type_portable_1.0.0.exe",
+              "created_at": "2026-07-17T00:32:10Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "VoiceEffect",
+      "stars": 0,
+      "owner": {
+        "login": "eaeoz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/96027693?v=4"
+      },
+      "releases": [
+        {
+          "tag": "2.0.0",
+          "name": "VoiceEffect 2.0.0",
+          "published": "2026-07-27T01:09:17Z",
+          "assets": [
+            {
+              "name": "VoiceEffect.Setup.2.0.0.exe",
+              "size": 72004678,
+              "downloads": 2,
+              "browser_download_url": "https://github.com/eaeoz/VoiceEffect/releases/download/2.0.0/VoiceEffect.Setup.2.0.0.exe",
+              "created_at": "2026-07-27T01:06:32Z"
+            },
+            {
+              "name": "VoiceEffect_portable_2.0.0.exe",
+              "size": 71792019,
+              "downloads": 0,
+              "browser_download_url": "https://github.com/eaeoz/VoiceEffect/releases/download/2.0.0/VoiceEffect_portable_2.0.0.exe",
+              "created_at": "2026-07-27T01:07:52Z"
+            }
+          ]
+        },
+        {
+          "tag": "1.0.0",
+          "name": "VoiceEffect v1.0.0",
+          "published": "2026-07-24T12:45:32Z",
+          "assets": [
+            {
+              "name": "VoiceEffect.Setup.1.0.0.exe",
+              "size": 69578425,
+              "downloads": 2,
+              "browser_download_url": "https://github.com/eaeoz/VoiceEffect/releases/download/1.0.0/VoiceEffect.Setup.1.0.0.exe",
+              "created_at": "2026-07-24T13:01:54Z"
+            },
+            {
+              "name": "VoiceEffect_portable_1.0.0.exe",
+              "size": 69365766,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/VoiceEffect/releases/download/1.0.0/VoiceEffect_portable_1.0.0.exe",
+              "created_at": "2026-07-24T13:03:35Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
