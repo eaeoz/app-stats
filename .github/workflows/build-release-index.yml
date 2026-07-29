@@ -29,6 +29,8 @@ jobs:
             "music-downloader"
             "command-manager-docker"
             "sondakika"
+            "SpeechTypeProject"
+            "VoiceEffect"
           )
 
           OUTPUT='{"projects":['

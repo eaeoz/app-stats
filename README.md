@@ -13,6 +13,8 @@ Fetches release data from multiple repositories via the GitHub API every 30 minu
 - [music-downloader](https://github.com/eaeoz/music-downloader)
 - [command-manager-docker](https://github.com/eaeoz/command-manager-docker)
 - [sondakika](https://github.com/eaeoz/sondakika)
+- [speech-type](https://github.com/eaeoz/SpeechTypeProject)
+- [voice-effect](https://github.com/eaeoz/VoiceEffect)
 
 ## Output format
 
