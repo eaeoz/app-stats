@@ -545,6 +545,27 @@
       },
       "releases": [
         {
+          "tag": "2.0.2",
+          "name": "VoiceEffect 2.0.2 — Recording, Backup & System Audio Routing",
+          "published": "2026-08-09T08:18:09Z",
+          "assets": [
+            {
+              "name": "VoiceEffect.Setup.2.0.2.exe",
+              "size": 72016284,
+              "downloads": 3,
+              "browser_download_url": "https://github.com/eaeoz/VoiceEffect/releases/download/2.0.2/VoiceEffect.Setup.2.0.2.exe",
+              "created_at": "2026-08-09T08:15:35Z"
+            },
+            {
+              "name": "VoiceEffect_portable_2.0.2.exe",
+              "size": 71803624,
+              "downloads": 2,
+              "browser_download_url": "https://github.com/eaeoz/VoiceEffect/releases/download/2.0.2/VoiceEffect_portable_2.0.2.exe",
+              "created_at": "2026-08-09T08:16:52Z"
+            }
+          ]
+        },
+        {
           "tag": "2.0.1",
           "name": "Release 2.0.1 - Real-Time Audio Effects Engine 🎙️",
           "published": "2026-08-02T09:19:27Z",
