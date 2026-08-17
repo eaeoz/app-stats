@@ -7,7 +7,29 @@
         "login": "eaeoz",
         "avatar_url": "https://avatars.githubusercontent.com/u/96027693?v=4"
       },
-      "releases": []
+      "releases": [
+        {
+          "tag": "1.0.0",
+          "name": "v1.0.0 — Initial Release",
+          "published": "2026-05-18T22:46:05Z",
+          "assets": [
+            {
+              "name": "YouTube.Downloader.Setup.1.0.0.exe",
+              "size": 220908386,
+              "downloads": 9,
+              "browser_download_url": "https://github.com/eaeoz/youtube-downloader/releases/download/1.0.0/YouTube.Downloader.Setup.1.0.0.exe",
+              "created_at": "2026-05-19T14:30:16Z"
+            },
+            {
+              "name": "YouTube.Downloader_portable_1.0.0.exe",
+              "size": 220753103,
+              "downloads": 0,
+              "browser_download_url": "https://github.com/eaeoz/youtube-downloader/releases/download/1.0.0/YouTube.Downloader_portable_1.0.0.exe",
+              "created_at": "2026-05-19T14:26:33Z"
+            }
+          ]
+        }
+      ]
     },
     {
       "repo": "movie-downloader",
@@ -16,7 +38,190 @@
         "login": "eaeoz",
         "avatar_url": "https://avatars.githubusercontent.com/u/96027693?v=4"
       },
-      "releases": []
+      "releases": [
+        {
+          "tag": "1.0.8",
+          "name": "Movie Downloader 1.0.8",
+          "published": "2026-08-07T18:03:22Z",
+          "assets": [
+            {
+              "name": "Movie.Downloader.Setup.1.0.8.exe",
+              "size": 125182191,
+              "downloads": 3,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.8/Movie.Downloader.Setup.1.0.8.exe",
+              "created_at": "2026-08-07T18:04:19Z"
+            }
+          ]
+        },
+        {
+          "tag": "1.0.7",
+          "name": "v1.0.7 — 1337x & LimeTorrents, Custom Title Bar, Search Overhaul",
+          "published": "2026-05-29T00:34:37Z",
+          "assets": [
+            {
+              "name": "Movie.Downloader.Setup.1.0.7.exe",
+              "size": 126921594,
+              "downloads": 3,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.7/Movie.Downloader.Setup.1.0.7.exe",
+              "created_at": "2026-05-29T00:31:01Z"
+            },
+            {
+              "name": "Movie.Downloader_portable_1.0.7.exe",
+              "size": 126775137,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.7/Movie.Downloader_portable_1.0.7.exe",
+              "created_at": "2026-05-29T00:26:12Z"
+            }
+          ]
+        },
+        {
+          "tag": "1.0.6",
+          "name": "v1.0.6 Major Update - tor-dl Global dependencies not required anymore (2026-05-14)",
+          "published": "2026-05-14T15:52:55Z",
+          "assets": [
+            {
+              "name": "Movie.Downloader.Setup.1.0.6.exe",
+              "size": 80373849,
+              "downloads": 8,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.6/Movie.Downloader.Setup.1.0.6.exe",
+              "created_at": "2026-05-14T23:21:30Z"
+            },
+            {
+              "name": "Movie.Downloader_portable_1.0.6.exe",
+              "size": 80227428,
+              "downloads": 2,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.6/Movie.Downloader_portable_1.0.6.exe",
+              "created_at": "2026-05-14T23:20:15Z"
+            }
+          ]
+        },
+        {
+          "tag": "1.0.5",
+          "name": "v1.0.5 — Movie Info Panel & Smarter Metadata",
+          "published": "2026-05-13T12:09:12Z",
+          "assets": [
+            {
+              "name": "Movie.Downloader.Setup.1.0.5.exe",
+              "size": 81023847,
+              "downloads": 6,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.5/Movie.Downloader.Setup.1.0.5.exe",
+              "created_at": "2026-05-13T12:06:24Z"
+            },
+            {
+              "name": "Movie.Downloader_portable_1.0.5.exe",
+              "size": 80877378,
+              "downloads": 3,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.5/Movie.Downloader_portable_1.0.5.exe",
+              "created_at": "2026-05-13T12:05:05Z"
+            }
+          ]
+        },
+        {
+          "tag": "1.0.4",
+          "name": "v1.0.4 — Smarter default filters for better results",
+          "published": "2026-05-12T14:40:00Z",
+          "assets": [
+            {
+              "name": "Movie.Downloader.Setup.1.0.4.exe",
+              "size": 80719955,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.4/Movie.Downloader.Setup.1.0.4.exe",
+              "created_at": "2026-05-12T14:38:41Z"
+            },
+            {
+              "name": "Movie.Downloader_portable_1.0.4.exe",
+              "size": 80573501,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.4/Movie.Downloader_portable_1.0.4.exe",
+              "created_at": "2026-05-12T14:37:09Z"
+            }
+          ]
+        },
+        {
+          "tag": "1.0.3",
+          "name": "v1.0.3 — Download persistence, incomplete folder system, Windows reliability fixes",
+          "published": "2026-05-12T13:40:58Z",
+          "assets": [
+            {
+              "name": "Movie.Downloader.Setup.1.0.3.exe",
+              "size": 80719733,
+              "downloads": 3,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.3/Movie.Downloader.Setup.1.0.3.exe",
+              "created_at": "2026-05-12T13:39:22Z"
+            },
+            {
+              "name": "Movie.Downloader_portable_1.0.3.exe",
+              "size": 80573282,
+              "downloads": 0,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.3/Movie.Downloader_portable_1.0.3.exe",
+              "created_at": "2026-05-12T13:37:50Z"
+            }
+          ]
+        },
+        {
+          "tag": "1.0.2",
+          "name": "v1.0.2 Reduced high CPU usage",
+          "published": "2026-05-12T09:41:24Z",
+          "assets": [
+            {
+              "name": "Movie.Downloader.Setup.1.0.2.exe",
+              "size": 80717350,
+              "downloads": 2,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.2/Movie.Downloader.Setup.1.0.2.exe",
+              "created_at": "2026-05-12T09:39:56Z"
+            },
+            {
+              "name": "Movie.Downloader_portable_1.0.2.exe",
+              "size": 80570879,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.2/Movie.Downloader_portable_1.0.2.exe",
+              "created_at": "2026-05-12T09:38:28Z"
+            }
+          ]
+        },
+        {
+          "tag": "1.0.1",
+          "name": "v1.0.1 Fixed trailing whitespace in download folder names which prevents to delete folder",
+          "published": "2026-05-12T08:59:09Z",
+          "assets": [
+            {
+              "name": "Movie.Downloader.Setup.1.0.1.exe",
+              "size": 80716845,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.1/Movie.Downloader.Setup.1.0.1.exe",
+              "created_at": "2026-05-12T08:57:42Z"
+            },
+            {
+              "name": "Movie.Downloader_portable_1.0.1.exe",
+              "size": 80570383,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.1/Movie.Downloader_portable_1.0.1.exe",
+              "created_at": "2026-05-12T08:56:16Z"
+            }
+          ]
+        },
+        {
+          "tag": "1.0.0",
+          "name": "v1.0.0 — Movie Downloader",
+          "published": "2026-05-11T20:46:18Z",
+          "assets": [
+            {
+              "name": "Movie.Downloader.Setup.1.0.0.exe",
+              "size": 80715743,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.0/Movie.Downloader.Setup.1.0.0.exe",
+              "created_at": "2026-05-11T20:42:39Z"
+            },
+            {
+              "name": "Movie.Downloader_portable_1.0.0.exe",
+              "size": 80571794,
+              "downloads": 2,
+              "browser_download_url": "https://github.com/eaeoz/movie-downloader/releases/download/1.0.0/Movie.Downloader_portable_1.0.0.exe",
+              "created_at": "2026-05-11T21:35:00Z"
+            }
+          ]
+        }
+      ]
     },
     {
       "repo": "music-downloader",
@@ -25,7 +230,71 @@
         "login": "eaeoz",
         "avatar_url": "https://avatars.githubusercontent.com/u/96027693?v=4"
       },
-      "releases": []
+      "releases": [
+        {
+          "tag": "1.0.2",
+          "name": "v1.0.2",
+          "published": "2026-08-14T00:33:04Z",
+          "assets": [
+            {
+              "name": "Music.Downloader.Setup.1.0.2.exe",
+              "size": 152142660,
+              "downloads": 2,
+              "browser_download_url": "https://github.com/eaeoz/music-downloader/releases/download/1.0.2/Music.Downloader.Setup.1.0.2.exe",
+              "created_at": "2026-08-14T00:54:07Z"
+            },
+            {
+              "name": "Music.Downloader_portable_1.0.2.exe",
+              "size": 151974867,
+              "downloads": 2,
+              "browser_download_url": "https://github.com/eaeoz/music-downloader/releases/download/1.0.2/Music.Downloader_portable_1.0.2.exe",
+              "created_at": "2026-08-14T00:56:23Z"
+            }
+          ]
+        },
+        {
+          "tag": "1.0.1",
+          "name": "Music Downloader 1.0.1",
+          "published": "2026-08-13T12:03:35Z",
+          "assets": [
+            {
+              "name": "Music.Downloader.Setup.1.0.1.exe",
+              "size": 166851401,
+              "downloads": 2,
+              "browser_download_url": "https://github.com/eaeoz/music-downloader/releases/download/1.0.1/Music.Downloader.Setup.1.0.1.exe",
+              "created_at": "2026-08-13T11:55:24Z"
+            },
+            {
+              "name": "Music.Downloader_portable_1.0.1.exe",
+              "size": 166683618,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/music-downloader/releases/download/1.0.1/Music.Downloader_portable_1.0.1.exe",
+              "created_at": "2026-08-13T12:00:04Z"
+            }
+          ]
+        },
+        {
+          "tag": "1.0.0",
+          "name": "Music Downloader v1.0.0 — First Stable Release",
+          "published": "2026-05-14T00:39:44Z",
+          "assets": [
+            {
+              "name": "Music.Downloader.Setup.1.0.0.exe",
+              "size": 167240479,
+              "downloads": 8,
+              "browser_download_url": "https://github.com/eaeoz/music-downloader/releases/download/1.0.0/Music.Downloader.Setup.1.0.0.exe",
+              "created_at": "2026-05-14T00:47:40Z"
+            },
+            {
+              "name": "Music.Downloader_portable_1.0.0.exe",
+              "size": 167072693,
+              "downloads": 3,
+              "browser_download_url": "https://github.com/eaeoz/music-downloader/releases/download/1.0.0/Music.Downloader_portable_1.0.0.exe",
+              "created_at": "2026-05-14T00:50:26Z"
+            }
+          ]
+        }
+      ]
     },
     {
       "repo": "command-manager-docker",
@@ -34,7 +303,155 @@
         "login": "eaeoz",
         "avatar_url": "https://avatars.githubusercontent.com/u/96027693?v=4"
       },
-      "releases": []
+      "releases": [
+        {
+          "tag": "1.0.6",
+          "name": "Version 1.0.6 - Scroll Bar Fix",
+          "published": "2026-05-08T18:07:27Z",
+          "assets": [
+            {
+              "name": "Command.Manager.Setup.1.0.6.exe",
+              "size": 78267112,
+              "downloads": 6,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.6/Command.Manager.Setup.1.0.6.exe",
+              "created_at": "2026-05-08T22:59:25Z"
+            },
+            {
+              "name": "Command.Manager_portable_1.0.6.exe",
+              "size": 78107435,
+              "downloads": 3,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.6/Command.Manager_portable_1.0.6.exe",
+              "created_at": "2026-05-08T22:58:16Z"
+            }
+          ]
+        },
+        {
+          "tag": "1.0.5",
+          "name": "Version 1.0.5 - Seamless AI Integration, Focus Stability & Modern UI",
+          "published": "2026-05-06T01:37:02Z",
+          "assets": [
+            {
+              "name": "Command.Manager.Setup.1.0.5.exe",
+              "size": 78267014,
+              "downloads": 2,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.5/Command.Manager.Setup.1.0.5.exe",
+              "created_at": "2026-05-06T01:35:10Z"
+            },
+            {
+              "name": "Command.Manager_portable_1.0.5.exe",
+              "size": 78107365,
+              "downloads": 4,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.5/Command.Manager_portable_1.0.5.exe",
+              "created_at": "2026-05-06T01:33:23Z"
+            }
+          ]
+        },
+        {
+          "tag": "1.0.4",
+          "name": "Fix Electron cursor delay and animation performance issues",
+          "published": "2026-05-05T20:09:23Z",
+          "assets": [
+            {
+              "name": "Command.Manager.Setup.1.0.4.exe",
+              "size": 78266336,
+              "downloads": 4,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.4/Command.Manager.Setup.1.0.4.exe",
+              "created_at": "2026-05-05T20:45:09Z"
+            },
+            {
+              "name": "Command.Manager_portable_1.0.4.exe",
+              "size": 78106689,
+              "downloads": 0,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.4/Command.Manager_portable_1.0.4.exe",
+              "created_at": "2026-05-05T20:43:29Z"
+            }
+          ]
+        },
+        {
+          "tag": "1.0.3",
+          "name": "v1.0.3 - AI Integration & UI Enhancements",
+          "published": "2026-05-05T15:42:57Z",
+          "assets": [
+            {
+              "name": "Command.Manager.Setup.1.0.3.exe",
+              "size": 78266408,
+              "downloads": 0,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.3/Command.Manager.Setup.1.0.3.exe",
+              "created_at": "2026-05-05T19:52:59Z"
+            },
+            {
+              "name": "Command.Manager_portable_1.0.3.exe",
+              "size": 78106547,
+              "downloads": 2,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.3/Command.Manager_portable_1.0.3.exe",
+              "created_at": "2026-05-05T15:40:25Z"
+            }
+          ]
+        },
+        {
+          "tag": "1.0.2",
+          "name": "Update contact link to web form (v1.0.2)",
+          "published": "2026-05-04T20:30:33Z",
+          "assets": [
+            {
+              "name": "Command.Manager.Setup.1.0.2.exe",
+              "size": 78261355,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.2/Command.Manager.Setup.1.0.2.exe",
+              "created_at": "2026-05-04T20:26:50Z"
+            },
+            {
+              "name": "Command.Manager_portable_1.0.2.exe",
+              "size": 78101706,
+              "downloads": 0,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.2/Command.Manager_portable_1.0.2.exe",
+              "created_at": "2026-05-04T20:28:42Z"
+            }
+          ]
+        },
+        {
+          "tag": "1.0.1",
+          "name": "v1.0.1 - External Link Handling Fix",
+          "published": "2026-05-04T20:10:39Z",
+          "assets": [
+            {
+              "name": "Command.Manager.Setup.1.0.1.exe",
+              "size": 78261359,
+              "downloads": 0,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.1/Command.Manager.Setup.1.0.1.exe",
+              "created_at": "2026-05-04T20:06:51Z"
+            },
+            {
+              "name": "Command.Manager_portable_1.0.1.exe",
+              "size": 78101711,
+              "downloads": 0,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.1/Command.Manager_portable_1.0.1.exe",
+              "created_at": "2026-05-04T20:08:57Z"
+            }
+          ]
+        },
+        {
+          "tag": "1.0.0",
+          "name": "Command Manager v1.0.0 - Initial Release",
+          "published": "2026-05-04T13:56:20Z",
+          "assets": [
+            {
+              "name": "Command.Manager.Setup.1.0.0.exe",
+              "size": 78261181,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.0/Command.Manager.Setup.1.0.0.exe",
+              "created_at": "2026-05-04T13:49:39Z"
+            },
+            {
+              "name": "Command.Manager_portable_1.0.0.exe",
+              "size": 78101524,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/command-manager-docker/releases/download/1.0.0/Command.Manager_portable_1.0.0.exe",
+              "created_at": "2026-05-04T13:52:53Z"
+            }
+          ]
+        }
+      ]
     },
     {
       "repo": "sondakika",
@@ -43,7 +460,92 @@
         "login": "eaeoz",
         "avatar_url": "https://avatars.githubusercontent.com/u/96027693?v=4"
       },
-      "releases": []
+      "releases": [
+        {
+          "tag": "2.0.4",
+          "name": "📦 v2.0.4 - Döngü Modu ve Sesli Okuma İyileştirmeleri",
+          "published": "2026-05-14T11:09:56Z",
+          "assets": [
+            {
+              "name": "Sondakika.Setup.2.0.4.exe",
+              "size": 76921742,
+              "downloads": 15,
+              "browser_download_url": "https://github.com/eaeoz/sondakika/releases/download/2.0.4/Sondakika.Setup.2.0.4.exe",
+              "created_at": "2026-05-14T11:08:31Z"
+            },
+            {
+              "name": "Sondakika_portable_2.0.4.exe",
+              "size": 76771325,
+              "downloads": 4,
+              "browser_download_url": "https://github.com/eaeoz/sondakika/releases/download/2.0.4/Sondakika_portable_2.0.4.exe",
+              "created_at": "2026-05-14T11:07:26Z"
+            }
+          ]
+        },
+        {
+          "tag": "2.0.3",
+          "name": "Sondakika v2.0.3 — Portable Build & GUI Improvements",
+          "published": "2026-05-02T11:11:19Z",
+          "assets": [
+            {
+              "name": "Sondakika.Setup.2.0.3.exe",
+              "size": 76921476,
+              "downloads": 5,
+              "browser_download_url": "https://github.com/eaeoz/sondakika/releases/download/2.0.3/Sondakika.Setup.2.0.3.exe",
+              "created_at": "2026-05-02T11:07:31Z"
+            },
+            {
+              "name": "Sondakika_portable_2.0.3.exe",
+              "size": 76771046,
+              "downloads": 7,
+              "browser_download_url": "https://github.com/eaeoz/sondakika/releases/download/2.0.3/Sondakika_portable_2.0.3.exe",
+              "created_at": "2026-05-02T11:09:13Z"
+            }
+          ]
+        },
+        {
+          "tag": "2.0.2",
+          "name": "Sondakika v2.0.2 - Enhanced Article Reading Experience with White Theme & Animated Auto-Play",
+          "published": "2026-04-30T09:55:25Z",
+          "assets": [
+            {
+              "name": "Sondakika.Setup.2.0.2.exe",
+              "size": 76920340,
+              "downloads": 3,
+              "browser_download_url": "https://github.com/eaeoz/sondakika/releases/download/2.0.2/Sondakika.Setup.2.0.2.exe",
+              "created_at": "2026-04-30T09:47:59Z"
+            }
+          ]
+        },
+        {
+          "tag": "2.0.1",
+          "name": "Sondakika v2.0.1 - Browser Button Fix & CLI Improvements",
+          "published": "2026-04-29T00:55:37Z",
+          "assets": [
+            {
+              "name": "Sondakika.Setup.2.0.1.exe",
+              "size": 76918986,
+              "downloads": 4,
+              "browser_download_url": "https://github.com/eaeoz/sondakika/releases/download/2.0.1/Sondakika.Setup.2.0.1.exe",
+              "created_at": "2026-04-29T00:51:06Z"
+            }
+          ]
+        },
+        {
+          "tag": "2.0.0",
+          "name": "Sondakika v2.0.0 - Windows Masaüstü GUI + CLI Sürümü",
+          "published": "2026-04-28T12:13:30Z",
+          "assets": [
+            {
+              "name": "Sondakika.Setup.2.0.0.exe",
+              "size": 76918783,
+              "downloads": 4,
+              "browser_download_url": "https://github.com/eaeoz/sondakika/releases/download/2.0.0/Sondakika.Setup.2.0.0.exe",
+              "created_at": "2026-04-28T12:06:35Z"
+            }
+          ]
+        }
+      ]
     },
     {
       "repo": "SpeechTypeProject",
@@ -52,7 +554,29 @@
         "login": "eaeoz",
         "avatar_url": "https://avatars.githubusercontent.com/u/96027693?v=4"
       },
-      "releases": []
+      "releases": [
+        {
+          "tag": "1.0.0",
+          "name": "Speech Type v1.0.0",
+          "published": "2026-07-17T00:52:14Z",
+          "assets": [
+            {
+              "name": "Speech.Type.Setup.1.0.0.exe",
+              "size": 560848855,
+              "downloads": 4,
+              "browser_download_url": "https://github.com/eaeoz/SpeechTypeProject/releases/download/1.0.0/Speech.Type.Setup.1.0.0.exe",
+              "created_at": "2026-07-17T00:42:34Z"
+            },
+            {
+              "name": "Speech.Type_portable_1.0.0.exe",
+              "size": 560703200,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/SpeechTypeProject/releases/download/1.0.0/Speech.Type_portable_1.0.0.exe",
+              "created_at": "2026-07-17T00:32:10Z"
+            }
+          ]
+        }
+      ]
     },
     {
       "repo": "VoiceEffect",
@@ -61,7 +585,113 @@
         "login": "eaeoz",
         "avatar_url": "https://avatars.githubusercontent.com/u/96027693?v=4"
       },
-      "releases": []
+      "releases": [
+        {
+          "tag": "2.0.3",
+          "name": "VoiceEffect 2.0.3 — Resizable Side Panel, Mute Button & Section Swap",
+          "published": "2026-08-13T17:27:43Z",
+          "assets": [
+            {
+              "name": "VoiceEffect.Setup.2.0.3.exe",
+              "size": 72027772,
+              "downloads": 6,
+              "browser_download_url": "https://github.com/eaeoz/VoiceEffect/releases/download/2.0.3/VoiceEffect.Setup.2.0.3.exe",
+              "created_at": "2026-08-13T17:23:34Z"
+            },
+            {
+              "name": "VoiceEffect_portable_2.0.3.exe",
+              "size": 71815105,
+              "downloads": 4,
+              "browser_download_url": "https://github.com/eaeoz/VoiceEffect/releases/download/2.0.3/VoiceEffect_portable_2.0.3.exe",
+              "created_at": "2026-08-13T17:25:33Z"
+            }
+          ]
+        },
+        {
+          "tag": "2.0.2",
+          "name": "VoiceEffect 2.0.2 — Recording, Backup & System Audio Routing",
+          "published": "2026-08-09T08:18:09Z",
+          "assets": [
+            {
+              "name": "VoiceEffect.Setup.2.0.2.exe",
+              "size": 72016284,
+              "downloads": 3,
+              "browser_download_url": "https://github.com/eaeoz/VoiceEffect/releases/download/2.0.2/VoiceEffect.Setup.2.0.2.exe",
+              "created_at": "2026-08-09T08:15:35Z"
+            },
+            {
+              "name": "VoiceEffect_portable_2.0.2.exe",
+              "size": 71803624,
+              "downloads": 2,
+              "browser_download_url": "https://github.com/eaeoz/VoiceEffect/releases/download/2.0.2/VoiceEffect_portable_2.0.2.exe",
+              "created_at": "2026-08-09T08:16:52Z"
+            }
+          ]
+        },
+        {
+          "tag": "2.0.1",
+          "name": "Release 2.0.1 - Real-Time Audio Effects Engine 🎙️",
+          "published": "2026-08-02T09:19:27Z",
+          "assets": [
+            {
+              "name": "VoiceEffect.Setup.2.0.1.exe",
+              "size": 72006019,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/VoiceEffect/releases/download/2.0.1/VoiceEffect.Setup.2.0.1.exe",
+              "created_at": "2026-08-02T09:17:10Z"
+            },
+            {
+              "name": "VoiceEffect_portable_2.0.1.exe",
+              "size": 71793358,
+              "downloads": 0,
+              "browser_download_url": "https://github.com/eaeoz/VoiceEffect/releases/download/2.0.1/VoiceEffect_portable_2.0.1.exe",
+              "created_at": "2026-08-02T09:18:26Z"
+            }
+          ]
+        },
+        {
+          "tag": "2.0.0",
+          "name": "VoiceEffect 2.0.0",
+          "published": "2026-07-27T01:09:17Z",
+          "assets": [
+            {
+              "name": "VoiceEffect.Setup.2.0.0.exe",
+              "size": 72004678,
+              "downloads": 3,
+              "browser_download_url": "https://github.com/eaeoz/VoiceEffect/releases/download/2.0.0/VoiceEffect.Setup.2.0.0.exe",
+              "created_at": "2026-07-27T01:06:32Z"
+            },
+            {
+              "name": "VoiceEffect_portable_2.0.0.exe",
+              "size": 71792019,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/VoiceEffect/releases/download/2.0.0/VoiceEffect_portable_2.0.0.exe",
+              "created_at": "2026-07-27T01:07:52Z"
+            }
+          ]
+        },
+        {
+          "tag": "1.0.0",
+          "name": "VoiceEffect v1.0.0",
+          "published": "2026-07-24T12:45:32Z",
+          "assets": [
+            {
+              "name": "VoiceEffect.Setup.1.0.0.exe",
+              "size": 69578425,
+              "downloads": 2,
+              "browser_download_url": "https://github.com/eaeoz/VoiceEffect/releases/download/1.0.0/VoiceEffect.Setup.1.0.0.exe",
+              "created_at": "2026-07-24T13:01:54Z"
+            },
+            {
+              "name": "VoiceEffect_portable_1.0.0.exe",
+              "size": 69365766,
+              "downloads": 1,
+              "browser_download_url": "https://github.com/eaeoz/VoiceEffect/releases/download/1.0.0/VoiceEffect_portable_1.0.0.exe",
+              "created_at": "2026-07-24T13:03:35Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
