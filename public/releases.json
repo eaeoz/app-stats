@@ -232,6 +232,27 @@
       },
       "releases": [
         {
+          "tag": "1.0.3",
+          "name": "Music Downloader v1.0.3",
+          "published": "2026-08-19T15:43:55Z",
+          "assets": [
+            {
+              "name": "Music.Downloader.Setup.1.0.3.exe",
+              "size": 145988398,
+              "downloads": 2,
+              "browser_download_url": "https://github.com/eaeoz/music-downloader/releases/download/1.0.3/Music.Downloader.Setup.1.0.3.exe",
+              "created_at": "2026-08-19T15:44:53Z"
+            },
+            {
+              "name": "Music.Downloader_portable_1.0.3.exe",
+              "size": 145820614,
+              "downloads": 0,
+              "browser_download_url": "https://github.com/eaeoz/music-downloader/releases/download/1.0.3/Music.Downloader_portable_1.0.3.exe",
+              "created_at": "2026-08-19T15:47:29Z"
+            }
+          ]
+        },
+        {
           "tag": "1.0.2",
           "name": "v1.0.2",
           "published": "2026-08-14T00:33:04Z",
